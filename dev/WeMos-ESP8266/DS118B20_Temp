@@ -1,0 +1,29 @@
+
+weMosD1 + sonda temperatura (ad un filo)
+Repo
+https://github.com/milesburton/Arduino-Temperature-Control-Library
+
+One Wire Lib (leggere)
+https://www.pjrc.com/teensy/td_libs_OneWire.html
+
+
+Dettagli
+https://create.arduino.cc/projecthub/TheGadgetBoy/ds18b20-digital-temperature-sensor-and-arduino-9cc806
+
+DS18B20 is 1-Wire digital temperature sensor from Maxim IC. Reports degrees in Celsius with 9 to 12-bit precision, from -55 to 125 (+/-0.5). Each sensor has a unique 64-Bit Serial number etched into it - allows for a huge number of sensors to be used on one data bus.
+
+Features:
+
+Unique 1-Wire® interface requires only one port pin for communication
+Each device has a unique 64-bit serial code stored in an onboard ROM
+Multidrop capability simplifies distributed temperature sensing applications
+Requires no external components
+Can be powered from data line.
+Power supply range is 3.0V to 5.5V
+Measures temperatures from –55°C to +125°C (–67°F to +257°F)±0.5°C accuracy from –10°C to +85°C
+Thermometer resolution is user-selectable from 9 to 12 bits
+Converts temperature to 12-bit digital word in 750ms (max.)
+User-definable nonvolatile (NV) alarm settings
+Alarm search command identifies and addresses devices whose temperature is outside of programmed limits (temperature alarm condition)
+Applications include thermostatic controls, industrial systems, consumer products, thermometers, or any thermally sensitive system
+
